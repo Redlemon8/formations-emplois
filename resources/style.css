@@ -54,3 +54,10 @@ p {
 .capture-ecran {
     width: 80%;
 }
+
+#block-tension {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 6rem 0;
+}
